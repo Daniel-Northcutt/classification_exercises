@@ -4,7 +4,7 @@ import os
 import math
 
 from sklearn.model_selection import train_test_split
-from sklearn.impute import 
+from sklearn.impute import SimpleImputer
 
 # visualize
 import matplotlib.pyplot as plt
